@@ -1,0 +1,5 @@
+SERIES_TITLE        = "《每天分享一個大氣科學知識直到我沒梗》"
+EMBEDDING_MODEL     = "gemini-embedding-001"
+EMBEDDING_TASK_TYPE = "RETRIEVAL_DOCUMENT"
+DIMENSION           = 1536
+QUERY_TASK_TYPE     = "RETRIEVAL_QUERY"
